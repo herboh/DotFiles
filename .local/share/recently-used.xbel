@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541%205%20organic%20matter2020.pdf" added="2020-09-24T19:54:50.899702Z" modified="2020-09-29T05:33:02.311300Z" visited="2020-09-24T19:54:50.899703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:33:02.311296Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541%204%20soil%20acidity2020.pdf" added="2020-09-24T19:55:01.901243Z" modified="2020-09-29T05:33:11.278922Z" visited="2020-09-24T19:55:01.901244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:33:11.278919Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/Daniel%20Geisseler%20-%20Use%20of%20Soil%20Protein%20Pools%20as%20Indicators%20of%20Soil%20Nitrogen%20Mineralization%20Potential.pdf" added="2020-09-25T14:11:07.975813Z" modified="2020-09-25T14:11:07.975823Z" visited="2020-09-25T14:11:07.975815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-25T14:11:07.975819Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541%206%20nitrogen2020.pdf" added="2020-09-25T16:44:31.173733Z" modified="2020-09-29T05:32:51.970161Z" visited="2020-09-25T16:44:31.173735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:32:51.970156Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/pictures/2020-09-26-114820_3605x1899_scrot.png" added="2020-09-26T15:48:25.806411Z" modified="2020-09-26T15:48:33.223561Z" visited="2020-09-26T15:48:25.806412Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-26T15:48:33.223559Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/JSSS-D-20-00913_reviewer.pdf" added="2020-09-26T23:42:00.076026Z" modified="2020-09-26T23:42:00.076033Z" visited="2020-09-26T23:42:00.076027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-26T23:42:00.076030Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-09-27-093646_658x380_scrot.png" added="2020-09-27T13:37:51.851860Z" modified="2020-09-27T13:37:51.851864Z" visited="2020-09-27T13:37:51.851860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-27T13:37:51.851862Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/pictures/2020-09-27-151226_298x207_scrot.png" added="2020-09-27T19:12:35.516322Z" modified="2020-09-27T19:12:40.659412Z" visited="2020-09-27T19:12:35.516323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-27T19:12:40.659410Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-09-28-114642_636x28_scrot.png" added="2020-09-28T15:47:01.373693Z" modified="2020-09-28T15:47:01.373697Z" visited="2020-09-28T15:47:01.373694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-28T15:47:01.373695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/pictures/2020-09-28-122559_1277x598_scrot.png" added="2020-09-28T16:26:35.816971Z" modified="2020-09-28T16:26:35.816976Z" visited="2020-09-28T16:26:35.816972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-28T16:26:35.816973Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/NcycleReview.pdf" added="2020-09-29T05:32:43.056054Z" modified="2020-09-29T05:32:43.056063Z" visited="2020-09-29T05:32:43.056055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:32:43.056058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541%203%20soi%20chem2020.pdf" added="2020-09-29T05:33:19.517249Z" modified="2020-09-29T05:33:19.517257Z" visited="2020-09-29T05:33:19.517250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:33:19.517253Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541%202-CHEMREV2020.pdf" added="2020-09-29T05:33:32.256159Z" modified="2020-09-29T05:33:32.256169Z" visited="2020-09-29T05:33:32.256160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:33:32.256164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/SSC541-1ESSNUT2020.pdf" added="2020-09-29T05:33:40.640450Z" modified="2020-09-29T05:33:40.640458Z" visited="2020-09-29T05:33:40.640451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-29T05:33:40.640454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/pictures/2020-09-30-173351_681x429_scrot.png" added="2020-09-30T21:34:01.631553Z" modified="2020-09-30T21:34:01.631557Z" visited="2020-09-30T21:34:01.631554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-09-30T21:34:01.631555Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/Assignment-2-2020.docx" added="2020-10-03T21:32:48.446716Z" modified="2020-10-03T21:32:48.446719Z" visited="2020-10-03T21:32:48.446717Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-03T21:32:48.446718Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/Homework3-FULMER.pdf" added="2020-10-03T21:34:45.977823Z" modified="2020-10-03T21:34:45.977832Z" visited="2020-10-03T21:34:45.977825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-03T21:34:45.977829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-04-153509_602x112_scrot.png" added="2020-10-04T19:35:18.085902Z" modified="2020-10-04T19:35:18.085906Z" visited="2020-10-04T19:35:18.085902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-04T19:35:18.085904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/Control-HOODLUM%20%5BIPT%5D.torrent" added="2020-10-05T00:05:36.491014Z" modified="2020-10-05T00:05:43.391976Z" visited="2020-10-05T00:05:36.491015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-05T00:05:36.491016Z" count="1"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-05T00:05:43.391974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/Control_MULTi12_-_ElAmigos.nzb" added="2020-10-05T00:14:30.928030Z" modified="2020-10-05T00:22:38.174770Z" visited="2020-10-05T00:14:30.928031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nzb"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-05T00:14:30.928033Z" count="1"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-05T00:22:38.174767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/Exam%202,%202020.pdf" added="2020-10-05T02:30:57.344645Z" modified="2020-10-06T22:30:12.434036Z" visited="2020-10-05T02:30:57.344647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T22:30:12.434032Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/Measuring_soil_water,%202020.pdf" added="2020-10-05T02:31:50.437207Z" modified="2020-10-05T02:31:50.437216Z" visited="2020-10-05T02:31:50.437208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-05T02:31:50.437211Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/st512-lab4.pdf" added="2020-10-05T17:19:39.561329Z" modified="2020-10-06T21:21:39.705724Z" visited="2020-10-05T17:19:39.561331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T21:21:39.705720Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/st512-ch03.pdf" added="2020-10-05T17:19:44.883820Z" modified="2020-10-06T21:21:47.878362Z" visited="2020-10-05T17:19:44.883821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T21:21:47.878358Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/st512-hwk04.pdf" added="2020-10-05T17:20:02.744188Z" modified="2020-10-09T21:33:44.652414Z" visited="2020-10-05T17:20:02.744189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-09T21:33:44.652409Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/st512-ch04.pdf" added="2020-10-06T19:12:55.552414Z" modified="2020-10-06T21:21:44.253189Z" visited="2020-10-06T19:12:55.552415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T21:21:44.253186Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/silage.txt" added="2020-10-06T19:14:56.996928Z" modified="2020-10-06T19:14:56.996936Z" visited="2020-10-06T19:14:56.996929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T19:14:56.996932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_chan0/st512-hwk04-1.pdf" added="2020-10-06T19:27:45.133745Z" modified="2020-10-06T19:27:45.133761Z" visited="2020-10-06T19:27:45.133747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T19:27:45.133751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/SAS%209.4%20M6-Full.iso" added="2020-10-06T19:50:10.328685Z" modified="2020-10-06T19:50:10.328693Z" visited="2020-10-06T19:50:10.328687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T19:50:10.328689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/Exam-2-2020-DE-Posted.docx" added="2020-10-06T22:29:02.529768Z" modified="2020-10-06T22:29:02.529775Z" visited="2020-10-06T22:29:02.529769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T22:29:02.529771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/amylase.txt" added="2020-10-06T23:35:07.362052Z" modified="2020-10-06T23:35:07.362061Z" visited="2020-10-06T23:35:07.362055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-06T23:35:07.362058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-06-200643_652x432_scrot.png" added="2020-10-07T00:06:51.677296Z" modified="2020-10-07T00:06:51.677300Z" visited="2020-10-07T00:06:51.677297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-07T00:06:51.677298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/tenor.gif" added="2020-10-07T00:44:31.205897Z" modified="2020-10-07T00:44:45.444211Z" visited="2020-10-07T00:44:31.205898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-07T00:44:31.515075Z" count="2"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-07T00:44:45.444209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/giphy.gif" added="2020-10-08T01:05:25.313925Z" modified="2020-10-08T01:05:44.900723Z" visited="2020-10-08T01:05:25.313926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-08T01:05:25.617939Z" count="2"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-08T01:05:44.900722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-10-201338_611x211_scrot.png" added="2020-10-11T00:13:52.779521Z" modified="2020-10-11T00:13:52.779525Z" visited="2020-10-11T00:13:52.779522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-11T00:13:52.779523Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-11-053132_256x126_scrot.png" added="2020-10-11T09:31:53.666165Z" modified="2020-10-11T09:31:53.666169Z" visited="2020-10-11T09:31:53.666165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-11T09:31:53.666167Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-11-174430_1404x595_scrot.png" added="2020-10-11T21:44:56.486016Z" modified="2020-10-11T21:44:56.486019Z" visited="2020-10-11T21:44:56.486017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-11T21:44:56.486018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-11-174857_1409x234_scrot.png" added="2020-10-11T21:49:18.686340Z" modified="2020-10-11T21:49:18.686344Z" visited="2020-10-11T21:49:18.686341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-11T21:49:18.686342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-11-180026_1493x764_scrot.png" added="2020-10-11T22:00:35.888075Z" modified="2020-10-11T22:00:35.888079Z" visited="2020-10-11T22:00:35.888076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-11T22:00:35.888077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-13-192102_676x472_scrot.png" added="2020-10-13T23:22:12.966421Z" modified="2020-10-13T23:22:12.966426Z" visited="2020-10-13T23:22:12.966422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-13T23:22:12.966423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-13-192343_1746x853_scrot.png" added="2020-10-13T23:23:49.411464Z" modified="2020-10-13T23:23:49.411469Z" visited="2020-10-13T23:23:49.411464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-13T23:23:49.411466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-13-193158_2021x1117_scrot.png" added="2020-10-13T23:32:05.593430Z" modified="2020-10-13T23:32:05.593435Z" visited="2020-10-13T23:32:05.593431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-13T23:32:05.593432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-13-193349_1968x1058_scrot.png" added="2020-10-13T23:33:55.779786Z" modified="2020-10-13T23:33:55.779790Z" visited="2020-10-13T23:33:55.779787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-13T23:33:55.779788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-13-195528_2164x1218_scrot.png" added="2020-10-13T23:55:33.123335Z" modified="2020-10-13T23:55:33.123340Z" visited="2020-10-13T23:55:33.123336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-13T23:55:33.123338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-15-200154_704x348_scrot.png" added="2020-10-16T00:02:02.452619Z" modified="2020-10-16T00:02:02.452624Z" visited="2020-10-16T00:02:02.452620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-16T00:02:02.452621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-18-100158_2396x1406_scrot.png" added="2020-10-18T14:02:11.524723Z" modified="2020-10-18T14:02:11.524727Z" visited="2020-10-18T14:02:11.524724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-18T14:02:11.524725Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/downloads/grenade.cfg" added="2020-10-22T07:52:14.056301Z" modified="2020-10-22T07:52:14.056306Z" visited="2020-10-22T07:52:14.056302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-22T07:52:14.056304Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chan/2020-10-25-141939_1007x385_scrot.png" added="2020-10-25T18:19:55.999466Z" modified="2020-10-25T18:19:55.999470Z" visited="2020-10-25T18:19:55.999467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-10-25T18:19:55.999468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
